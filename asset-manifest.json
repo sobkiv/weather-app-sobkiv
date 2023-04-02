@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.7810fe2a.css",
-    "main.js": "/react-gh-pages/static/js/main.ad57a820.js",
-    "static/js/787.c0e3d225.chunk.js": "/react-gh-pages/static/js/787.c0e3d225.chunk.js",
-    "static/media/initial.jpg": "/react-gh-pages/static/media/initial.8e2bd5cbef8d2c05851b.jpg",
-    "static/media/hot.jpg": "/react-gh-pages/static/media/hot.a0ef7c2e7693c5f0af2f.jpg",
-    "static/media/cold.jpg": "/react-gh-pages/static/media/cold.02dfb479e7f46b1be69e.jpg",
-    "static/media/normal.jpg": "/react-gh-pages/static/media/normal.32ba5fb1abb2fc425fdb.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.7810fe2a.css.map": "/react-gh-pages/static/css/main.7810fe2a.css.map",
-    "main.ad57a820.js.map": "/react-gh-pages/static/js/main.ad57a820.js.map",
-    "787.c0e3d225.chunk.js.map": "/react-gh-pages/static/js/787.c0e3d225.chunk.js.map"
+    "main.css": "/weather-app-sobkiv/static/css/main.bc45d88a.css",
+    "main.js": "/weather-app-sobkiv/static/js/main.046bacfa.js",
+    "static/js/787.c0e3d225.chunk.js": "/weather-app-sobkiv/static/js/787.c0e3d225.chunk.js",
+    "static/media/initial.jpg": "/weather-app-sobkiv/static/media/initial.8e2bd5cbef8d2c05851b.jpg",
+    "static/media/hot.jpg": "/weather-app-sobkiv/static/media/hot.a0ef7c2e7693c5f0af2f.jpg",
+    "static/media/cold.jpg": "/weather-app-sobkiv/static/media/cold.02dfb479e7f46b1be69e.jpg",
+    "static/media/normal.jpg": "/weather-app-sobkiv/static/media/normal.32ba5fb1abb2fc425fdb.jpg",
+    "index.html": "/weather-app-sobkiv/index.html",
+    "main.bc45d88a.css.map": "/weather-app-sobkiv/static/css/main.bc45d88a.css.map",
+    "main.046bacfa.js.map": "/weather-app-sobkiv/static/js/main.046bacfa.js.map",
+    "787.c0e3d225.chunk.js.map": "/weather-app-sobkiv/static/js/787.c0e3d225.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7810fe2a.css",
-    "static/js/main.ad57a820.js"
+    "static/css/main.bc45d88a.css",
+    "static/js/main.046bacfa.js"
   ]
 }
