@@ -1,0 +1,34 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.background-initial {
+  background-image: url(../../assets/images/initial.jpg);
+  background-size: cover;
+  background-position: center;
+  transition: all 0.5s ease;
+}
+
+.background-hot {
+  background-image: url(../../assets/images/hot.jpg);
+  background-size: cover;
+  background-position: center;
+  transition: all 0.5s ease;
+}
+
+.background-cold {
+  background-image: url(../../assets/images/cold.jpg);
+  background-size: cover;
+  background-position: center;
+  transition: all 0.5s ease;
+}
+
+.background-normal {
+  background-image: url(../../assets/images/normal.jpg);
+  background-size: cover;
+  background-position: center;
+  transition: all 0.5s ease;
+}

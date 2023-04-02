@@ -1,0 +1,25 @@
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-top: -200px;
+}
+
+.input {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.button {
+    background-color: #318da2;
+    border: none;
+    color: #e8fbff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.search-bar button:hover {
+    background-color: #318da2;
+}
